@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <p alighn="center">
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sengkyaut&repo=FFNC)](https://github.com/sengkyaut/FFNC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sengkyaut&repo=custom-syllables-break)](https://github.com/sengkyaut/custom-syllables-break)
