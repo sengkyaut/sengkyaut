@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/monsterhunters/sub/dev/ver.json
+https://raw.githubusercontent.com/monsterhunters/sub/dev/sa.zip
+https://raw.githubusercontent.com/monsterhunters/sub/monsterhunters-patch-1/main.py
+https://raw.githubusercontent.com/monsterhunters/sub/monsterhunters-patch-1/main2.py
+
